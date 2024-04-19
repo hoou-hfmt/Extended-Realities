@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/VRPawn_lvl1.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/bp_ProxyHands.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/PC_LevelOne.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/GM_LevelOne.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/bp_PlayerStart.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/OSCControl/bp_CAMERAS.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRMotionTracking/Blueprints/OSCControl/bp_SCORE.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Maps/TestMap.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Maps/TestMap_BuiltData.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Blueprints/VRPawn_BACKUP.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/Map_VRMotionTracking.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/Map_VRMotionTracking_BuiltData.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/Blueprints/BP_OSC.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/Blueprints/BP_LightControl.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/_Workshop/Blueprints/BP_OSC.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/_Workshop/Map_VRMotionTracking.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/_Workshop/Blueprints/SKM_Quinn_CtrlRig.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/_Workshop/Blueprints/VRPawn_MotionTracking.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/VR-Motion-Tracking/Content/Characters/Mannequins/Meshes/SK_Mannequin_AnimBlueprint.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/VRTemplate/Maps/TestMap1.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/VR_MotionTracking.umap",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/_Workshop/VR_MotionTracking_BuiltData.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/OSCControl/bp_SCORE.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/OSCControl/bp_CAMERAS.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/bp_PlayerStart.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/GM_LevelOne.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/PC_LevelOne.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/bp_ProxyHands.uasset",
+				"C:/Users/Basti/Documents/Unreal Projects/VRMotionTracking/Content/Blueprints/VRPawn_lvl1.uasset"
+			]
+		}
+	]
+}
